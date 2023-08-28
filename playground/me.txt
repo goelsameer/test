@@ -1,0 +1,5 @@
+{{#user}}
+Name: Sameer Goel
+Skills: HTML,CSS,JS,React,Python,Flask,Java,Selenium,Firebase,Render,Docker
+Email: sameergoelmail@gmail.com
+{{/user}}
